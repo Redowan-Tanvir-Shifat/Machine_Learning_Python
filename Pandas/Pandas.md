@@ -61,28 +61,16 @@ print("Features:", X.head())
 print("Target:", y.head())
 ```
 
+
 ## Pandas Learning Roadmap
 
-### 1. Basic
-- [ ] **Introduction**
-- [ ] **Getting Started**
-- [ ] **Pandas Series**
-- [ ] **DataFrames**
-- [ ] **Read CSV**
-- [ ] **Read JSON**
-- [ ] **Analyze Data**
+| **Basic**                  | **Cleaning Data**           | **Advanced**    |
+|----------------------------|-----------------------------|-----------------|
+| [ ] Introduction           | [ ] Clean Data             | [ ] Correlations |
+| [ ] Getting Started        | [ ] Clean Empty Cells      | [ ] Plotting     |
+| [ ] Pandas Series          | [ ] Clean Wrong Format     |                 |
+| [ ] DataFrames             | [ ] Clean Wrong Data       |                 |
+| [ ] Read CSV               | [ ] Remove Duplicates      |                 |
+| [ ] Read JSON              |                             |                 |
+| [ ] Analyze Data           |                             |                 |
 
----
-
-### 2. Cleaning Data
-- [ ] **Clean Data**
-- [ ] **Clean Empty Cells**
-- [ ] **Clean Wrong Format**
-- [ ] **Clean Wrong Data**
-- [ ] **Remove Duplicates**
-
----
-
-### 3. Advanced
-- [ ] **Correlations**
-- [ ] **Plotting**

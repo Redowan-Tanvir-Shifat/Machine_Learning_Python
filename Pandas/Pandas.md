@@ -64,13 +64,15 @@ print("Target:", y.head())
 
 ## Pandas Learning Roadmap
 
-| **Basic**                  | **Cleaning Data**           | **Advanced**    |
-|----------------------------|-----------------------------|-----------------|
-| [ ] Introduction           | [ ] Clean Data             | [ ] Correlations |
-| [ ] Getting Started        | [ ] Clean Empty Cells      | [ ] Plotting     |
-| [ ] Pandas Series          | [ ] Clean Wrong Format     |                 |
-| [ ] DataFrames             | [ ] Clean Wrong Data       |                 |
-| [ ] Read CSV               | [ ] Remove Duplicates      |                 |
-| [ ] Read JSON              |                             |                 |
-| [ ] Analyze Data           |                             |                 |
+
+| **Basic**        | **Cleaning Data**     | **Advanced**    |
+|-------------------|-----------------------|-----------------|
+| Introduction      | Clean Data           | Correlations    |
+| Getting Started   | Clean Empty Cells    | Plotting        |
+| Pandas Series     | Clean Wrong Format   |                 |
+| DataFrames        | Clean Wrong Data     |                 |
+| Read CSV          | Remove Duplicates    |                 |
+| Read JSON         |                       |                 |
+| Analyze Data      |                       |                 |
+
 

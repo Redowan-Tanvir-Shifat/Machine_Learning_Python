@@ -54,3 +54,4 @@ b = np.array([[5, 6], [7, 8]])
 
 print(a.dot(b))  # matrix product 
 print(np.dot(a, b))  # matrix product another way 
+
